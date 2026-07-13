@@ -1,0 +1,22 @@
+# Never publish anything from an active box
+active/
+*enigma*
+
+# Common junk that leaks personal/environment context
+__MACOSX/
+*.zip
+.DS_Store
+*.pcap
+*.pcapng
+*.csv
+id_rsa
+id_rsa.pub
+*linpeas_results*
+*winpeas*
+Pillaging_*/
+*.docx
+scratch*.md
+knowledge-profile.md
+cybersecurity-mentor-agent.md
+drill-list.md
+session-*-transcript.md
