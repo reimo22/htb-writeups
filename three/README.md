@@ -1,7 +1,7 @@
 # Three
 **Target IP:** 10.129.145.184
 
-Three is an easy Linux box that revolves around discovering a hidden vhost pointing to a misconfigured S3 bucket, then abusing write access to that bucket to drop a PHP web shell and get code execution.
+Three is an very easy Linux box that revolves around discovering a hidden vhost pointing to a misconfigured S3 bucket, then abusing write access to that bucket to drop a PHP web shell and get code execution.
 
 ## Enumeration
 
