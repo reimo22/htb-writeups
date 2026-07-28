@@ -5,10 +5,10 @@ More write-ups will be added as boxes are completed and retire.
 ## Boxes
 | Box | OS | Difficulty | Technique |
 |---|---|---|---|
+| [Vaccine](./vaccine) | Linux | Very Easy | Anonymous FTP → offline crack → SQLi → hardcoded DB creds → sudo `vi` shell escape |
+| [Three](./three) | Linux | Very Easy | Hidden vhost → misconfigured S3 bucket with write access → upload PHP web shell → RCE |
 | [Cap](./cap) | Linux | Easy | IDOR → cleartext creds → Python capability abuse (cap_setuid) |
 | [Appointment](./appointment) | Linux | Very Easy | SQL injection auth bypass |
 | [Sequel](./sequel) | Linux | Very Easy | Unauthenticated MySQL misconfiguration |
 | [Crocodile](./crocodile) | Linux | Very Easy | Anonymous FTP credential leak → directory brute-force |
 | [Responder](./responder) | Windows | Very Easy | LFI/RFI → NTLMv2 capture (Responder) → offline crack → RDP/WinRM |
-| [Three](./three) | Linux | Very Easy | Hidden vhost → misconfigured S3 bucket with write access → upload PHP web shell → RCE |
-| [Vaccine](./vaccine) | Linux | Very Easy | Anonymous FTP → offline crack → SQLi → hardcoded DB creds → sudo `vi` shell escape |

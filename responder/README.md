@@ -1,5 +1,8 @@
 # Responder
 
+**Difficulty:** Very Easy
+**OS:** Windows
+
 Capture an NTLMv2 hash via LLMNR/NBT-NS poisoning with Responder, crack it offline, then use the recovered credentials for access.
 
 ## Reconnaissance

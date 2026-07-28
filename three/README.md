@@ -1,4 +1,7 @@
 # Three
+
+**Difficulty:** Very Easy
+**OS:** Linux
 **Target IP:** 10.129.145.184
 
 Three is an very easy Linux box that revolves around discovering a hidden vhost pointing to a misconfigured S3 bucket, then abusing write access to that bucket to drop a PHP web shell and get code execution.
@@ -143,7 +146,7 @@ curl http://thetoppers.htb/shell.php
 
 Shell caught on the listener. Foothold obtained.
 
-## Takeaways
+## Lessons Learned
 
 - Anonymous S3 buckets that are also served directly by a web server are a straightforward path to remote code execution if they accept writes. Read access alone told us the file structure; write access turned it into a shell.
 - Tool defaults matter. ffuf's matcher-first, filter-second behavior silently drops valid results that don't fall in its default status code list. Worth checking a tool's default matchers/filters before trusting a "no hits" result, especially during vhost or content discovery.

@@ -1,5 +1,7 @@
 # Cap
 
+**Difficulty:** Easy
+**OS:** Linux
 **Goal:** Exploit IDOR in a network capture dashboard to obtain cleartext credentials, then abuse Python capabilities for privilege escalation.
 
 ## Reconnaissance
