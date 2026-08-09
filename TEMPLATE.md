@@ -3,6 +3,8 @@
 **Difficulty:** Very Easy/Easy/Medium/Hard
 **OS:** Linux/Windows
 **Target IP:** {{target-ip}}
+**Mentored via:** a custom fork of [0xdf](https://gitlab.com/0xdf/htb-ai-mentor/-/tree/main)'s Socratic HTB-mentoring skill
+<!-- Omit this line entirely if the box was solved solo. -->
 
 <!-- One paragraph: what kind of box this is and the chained path, e.g.
 "{{Box}} is a very easy Linux box that chains X into Y into Z." -->

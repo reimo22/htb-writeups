@@ -4,6 +4,8 @@
 **Category:** Web/Pwn/Crypto/Rev/Forensics/Misc
 **Difficulty:** Very Easy/Easy/Medium/Hard
 **Target:** `{{url-or-host:port}}`
+**Mentored via:** a custom fork of [0xdf](https://gitlab.com/0xdf/htb-ai-mentor/-/tree/main)'s Socratic HTB-mentoring skill
+<!-- Omit this line entirely if the challenge was solved solo. -->
 
 <!-- One paragraph: what kind of challenge this is and the chained path, e.g.
 "{{Challenge}} is a very easy web challenge that chains X into Y into Z." -->
