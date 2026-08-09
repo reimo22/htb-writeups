@@ -1,3 +1,11 @@
+---
+title: "Cap"
+os: "Linux"
+difficulty: "Easy"
+technique: "IDOR → cleartext creds → Python capability abuse (cap_setuid)"
+date: 2026-07-13
+---
+
 # Cap
 
 **Goal:** Exploit IDOR in a network capture dashboard to obtain cleartext credentials, then abuse Python capabilities for privilege escalation.

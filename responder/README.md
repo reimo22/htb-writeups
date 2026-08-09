@@ -1,3 +1,11 @@
+---
+title: "Responder"
+os: "Windows"
+difficulty: "Very Easy"
+technique: "LFI/RFI → NTLMv2 capture (Responder) → offline crack → RDP/WinRM"
+date: 2026-07-13
+---
+
 # Responder
 
 Capture an NTLMv2 hash via LLMNR/NBT-NS poisoning with Responder, crack it offline, then use the recovered credentials for access.

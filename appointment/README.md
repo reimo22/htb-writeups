@@ -1,3 +1,11 @@
+---
+title: "Appointment"
+os: "Linux"
+difficulty: "Very Easy"
+technique: "SQL injection auth bypass"
+date: 2026-07-16
+---
+
 # Appointment
 
 **OS:** Linux
