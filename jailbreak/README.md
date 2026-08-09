@@ -1,3 +1,12 @@
+---
+title: "Jailbreak"
+event: "HTB Tryout 2026"
+category: "Web"
+difficulty: "Very Easy"
+technique: "XXE in firmware XML upload → arbitrary local file read"
+date: 2026-07-22
+---
+
 # Jailbreak
 
 **Event:** HTB Tryout 2026

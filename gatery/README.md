@@ -1,3 +1,12 @@
+---
+title: "Gatery"
+event: "HTB Cyber Apocalypse 2026"
+category: "Web"
+difficulty: "Very Easy"
+technique: "Cosmetic game UI over unsigned access-control cookie the backend never verifies"
+date: 2026-07-24
+---
+
 # Gatery
 
 **Event:** HTB Cyber Apocalypse 2026

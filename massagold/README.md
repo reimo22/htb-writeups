@@ -1,3 +1,12 @@
+---
+title: "Massagold"
+event: "HTB Cyber Apocalypse 2026"
+category: "Web"
+difficulty: "Very Easy"
+technique: "Stored XSS → CSP bypass via JSONP gadget → admin bot session hijack"
+date: 2026-07-24
+---
+
 # Massagold
 
 **Event:** HTB Cyber Apocalypse 2026

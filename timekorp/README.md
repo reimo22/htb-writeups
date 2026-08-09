@@ -1,3 +1,12 @@
+---
+title: "TimeKORP"
+event: "HTB Tryout 2026 (originally HTB Cyber Apocalypse 2024)"
+category: "Web"
+difficulty: "Very Easy"
+technique: "Unsanitized format param → OS command injection via exec()"
+date: 2026-07-22
+---
+
 # TimeKORP
 
 **Event:** HTB Tryout 2026 (originally HTB Cyber Apocalypse 2024)
