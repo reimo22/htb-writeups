@@ -1,3 +1,11 @@
+---
+title: "Cap"
+os: "Linux"
+difficulty: "Easy"
+technique: "IDOR → cleartext creds → Python capability abuse (cap_setuid)"
+date: 2026-07-13
+---
+
 # Cap
 
 **Difficulty:** Easy

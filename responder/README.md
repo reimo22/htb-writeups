@@ -1,3 +1,11 @@
+---
+title: "Responder"
+os: "Windows"
+difficulty: "Very Easy"
+technique: "LFI/RFI → NTLMv2 capture (Responder) → offline crack → RDP/WinRM"
+date: 2026-07-13
+---
+
 # Responder
 
 **Difficulty:** Very Easy

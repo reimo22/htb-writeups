@@ -1,3 +1,11 @@
+---
+title: "Sequel"
+os: "Linux"
+difficulty: "Very Easy"
+technique: "Unauthenticated MySQL misconfiguration"
+date: 2026-07-16
+---
+
 # Sequel
 
 **OS:** Linux

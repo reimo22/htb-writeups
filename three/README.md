@@ -1,3 +1,11 @@
+---
+title: "Three"
+os: "Linux"
+difficulty: "Very Easy"
+technique: "Hidden vhost → misconfigured S3 bucket with write access → upload PHP web shell → RCE"
+date: 2026-07-13
+---
+
 # Three
 
 **Difficulty:** Very Easy

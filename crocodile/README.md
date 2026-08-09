@@ -1,3 +1,11 @@
+---
+title: "Crocodile"
+os: "Linux"
+difficulty: "Very Easy"
+technique: "Anonymous FTP credential leak → directory brute-force"
+date: 2026-07-16
+---
+
 # Crocodile
 
 **OS:** Linux

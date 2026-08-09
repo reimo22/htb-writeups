@@ -1,6 +1,14 @@
-# HackTheBox: Vaccine
+---
+title: "Vaccine"
+os: "Linux"
+difficulty: "Very Easy"
+technique: "Anonymous FTP → offline crack → SQLi → hardcoded DB creds → sudo `vi` shell escape"
+date: 2026-07-15
+---
 
-**Difficulty:** Easy
+# Vaccine
+
+**Difficulty:** Very Easy
 **OS:** Linux
 **Target IP:** 10.129.150.189
 
